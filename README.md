@@ -88,7 +88,3 @@
 | 2026 | **교내 AI소프트웨어 공모전 은상** | AI 소프트웨어 프로젝트 |
 | 2025 | **프로젝트 보고서 챌린지(CPC) 장려상** | Advanced Reasoning 기반 AI 시스템의 기술 메커니즘과 보안 취약점 분석 |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=connandgo&theme=github" alt="Jisu's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=connandgo&theme=github" alt="Jisu's most used languages" />
-</p>
